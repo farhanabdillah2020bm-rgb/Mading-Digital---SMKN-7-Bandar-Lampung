@@ -17,7 +17,7 @@
 </div>
 
     <nav class="navbar">
-        <a href="home.php">Beranda</a>
+        <a href="home.php" class="active">Beranda</a>
         <a href="pages/pengumuman.php">Pengumuman</a>
         <a href="pages/jadwal.php">Jadwal Kegiatan</a>
         <a href="pages/profil.php">Profil Sekolah</a>
